@@ -1,0 +1,6 @@
+{
+  "name": "WorldVerse",
+  "description": "An immersive country exploration and retro childhood nostalgia hub, featuring interactive maps, rich image galleries, a retro Cyber Café simulator, playable games, and AI-powered storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

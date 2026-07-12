@@ -153,7 +153,7 @@ export default function App() {
           </div>
           <div>
             <h1 className="text-2xl font-black tracking-tight text-[#FF6B35]">
-              WorldVerse <span className="text-[#00B4D8] italic font-medium">// REWIND</span>
+              rewind <span className="text-[#00B4D8] italic font-medium">// REWIND</span>
             </h1>
           </div>
         </div>
@@ -291,7 +291,7 @@ export default function App() {
           <div>LATENCY: 12MS</div>
         </div>
         <div className="flex gap-6">
-          <span className="opacity-60">© 2026 WORLDVERSE // REWIND PROJECT</span>
+          <span className="opacity-60">© 2026 rewind // REWIND PROJECT</span>
           <span>EST. 2000-2010 NOSTALGIA</span>
         </div>
       </footer>
